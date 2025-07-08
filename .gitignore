@@ -1,7 +1,9 @@
 .pre-commit-config.yaml
 trufflehog/
 trufflebox-ui/node_modules/
+temp_auto_push.bat
 dist/
 .env*
 .idea/
-workspace/
+workspace/.gitignore
+branch_structure.json
